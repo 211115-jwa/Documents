@@ -82,7 +82,7 @@ To-do list:
 ## Contributors
 
 - Alemu Robele
-- Artemis
+- Artemis Mills
 - Ashli Oneal
 - Alexa Hernandez
 - Connor Huston
