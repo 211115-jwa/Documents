@@ -1,55 +1,42 @@
 # Feature Assignments
 
-## Login/Register/User   1
-
-	- Jim Michael
-	- Jahlil
-	- Connor*
-	- Kibru
-	- Alexa*
-	- Rafael*
-	- Maurice*
-
-
-
-## Display products/Search for Products    2
-
-	- Leon
-	- Cory
-	- Ashley*
-	- Alemu
-	- Rafael
-
-
-
-## Cart   3 
-
-	- Jymm E
-	- Artimis
-	- Maurice*
-
-
-## Sales/deals     4
-
-	- Leon
-	- Cory
-	- Danaya*
-
-
 ## checkout    5
 
-	- Tanveer
-	- Willie
-	- Damilare
+	- Jymm
 
 
-## Testing/documentation/admin     6
+## Testing/documentation/admin/add books     6
 
 	- Tanveer
 	- Mike
-	- Marshall* 
-	- Willie^
-	- Cory^
+	- Marshall 
+	- Danaya
+	- Willie
+	- Cory
+	- Maurice
+	- Connor
+	
+## Frontend
+	
+	- Damilare
+	- Rafael
+	- Leon
+	- Maurice
+	- Willie
+	- Jymm kinda*
+	- Ashley
+	
+## Admin sales metrics dashboard
+
+	- Jymm
+	- Kibru
+	- Artimis
+	- Jahlil
+	- Connor 
+	- Jim Michael
+	- Alexa 
+	- Alemu
+	
 	
 	
 	
